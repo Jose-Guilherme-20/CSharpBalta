@@ -1,0 +1,14 @@
+C:\Users\jgsco\OneDrive\Área de Trabalho\Balta\bin\Debug\net7.0\Balta.exe
+C:\Users\jgsco\OneDrive\Área de Trabalho\Balta\bin\Debug\net7.0\Balta.deps.json
+C:\Users\jgsco\OneDrive\Área de Trabalho\Balta\bin\Debug\net7.0\Balta.runtimeconfig.json
+C:\Users\jgsco\OneDrive\Área de Trabalho\Balta\bin\Debug\net7.0\Balta.dll
+C:\Users\jgsco\OneDrive\Área de Trabalho\Balta\bin\Debug\net7.0\Balta.pdb
+C:\Users\jgsco\OneDrive\Área de Trabalho\Balta\obj\Debug\net7.0\Balta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgsco\OneDrive\Área de Trabalho\Balta\obj\Debug\net7.0\Balta.AssemblyInfoInputs.cache
+C:\Users\jgsco\OneDrive\Área de Trabalho\Balta\obj\Debug\net7.0\Balta.AssemblyInfo.cs
+C:\Users\jgsco\OneDrive\Área de Trabalho\Balta\obj\Debug\net7.0\Balta.csproj.CoreCompileInputs.cache
+C:\Users\jgsco\OneDrive\Área de Trabalho\Balta\obj\Debug\net7.0\Balta.dll
+C:\Users\jgsco\OneDrive\Área de Trabalho\Balta\obj\Debug\net7.0\refint\Balta.dll
+C:\Users\jgsco\OneDrive\Área de Trabalho\Balta\obj\Debug\net7.0\Balta.pdb
+C:\Users\jgsco\OneDrive\Área de Trabalho\Balta\obj\Debug\net7.0\Balta.genruntimeconfig.cache
+C:\Users\jgsco\OneDrive\Área de Trabalho\Balta\obj\Debug\net7.0\ref\Balta.dll
